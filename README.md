@@ -13,7 +13,7 @@
 </a>
 <br />
 <p>
-<a hrf="https://www.linkedin.com/in/amirhosseinab/" target="_blank">
+<a href="https://www.linkedin.com/in/amirhosseinab/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="https://www.twitter.com/amirhosseinab" target="_blank">
